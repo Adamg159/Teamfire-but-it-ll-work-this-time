@@ -43,3 +43,4 @@
 #settings files
 .DS_Store
 .vs
+.vscode
