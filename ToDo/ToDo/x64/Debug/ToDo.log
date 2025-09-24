@@ -1,0 +1,297 @@
+﻿  App.cpp
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(205,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(207,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(210,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(212,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(215,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(217,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(219,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(221,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(224,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(226,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(230,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(232,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(235,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(237,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(240,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(242,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(244,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(246,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(249,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(251,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(285,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(287,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(290,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(292,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(295,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(297,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(299,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(301,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(304,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(306,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(310,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(312,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(315,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(317,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(320,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(322,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(324,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(326,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(329,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(331,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(839,14): error C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(841,14): error C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1027,50): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1028,56): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1030,54): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1031,56): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1033,64): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1034,68): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\filefn.h(367,14): error C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'App.cpp')
+  
+  Frame.cpp
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(205,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(207,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(210,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(212,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(215,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(217,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(219,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(221,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(224,14): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(226,14): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(230,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(232,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(235,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(237,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(240,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(242,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(244,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(246,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(249,14): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(251,14): error C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(285,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(287,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(290,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(292,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(295,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(297,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(299,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(301,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(304,14): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(306,14): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(310,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(312,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(315,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(317,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(320,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(322,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(324,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(326,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(329,14): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(331,14): error C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(839,14): error C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(841,14): error C4996: '_wfreopen': This function or variable may be unsafe. Consider using _wfreopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1027,50): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1028,56): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1030,54): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1031,56): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1033,64): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\wxcrt.h(1034,68): error C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+C:\vcpkg\installed\x64-windows\include\wx\filefn.h(367,14): error C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Frame.cpp')
+  
+  Generating Code...
