@@ -1,4 +1,6 @@
-#include <Task.h>
+#include "Task.h"
+#include "Properties.h"
+#include <iostream>
 
 Task::Task() 
 {
@@ -20,9 +22,10 @@ std::string Task::GetTaskDescription() {
 bool Task::GetTaskCompletionBool() {
 	return Taskinfo.GetCompletion();
 }
-void Task::SetTask(Task& set_task) {
-	Taskinfo = set_task;
-}
+//void Task::SetTask(Task& set_task) 
+//{
+	//Taskinfo = set_task;
+//}
 void Task::SetTaskTitle(std::string& set_task_title) {
 	Taskinfo.SetTitle(set_task_title);
 }

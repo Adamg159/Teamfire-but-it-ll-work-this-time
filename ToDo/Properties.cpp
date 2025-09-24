@@ -1,4 +1,4 @@
-#include <Properties.h>
+#include "Properties.h"
 Properties::Properties()
 {
 	Title = "";
