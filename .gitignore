@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+#settings files
+.DS_Store
+.vs
